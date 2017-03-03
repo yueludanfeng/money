@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <humans>
+  <person name='zhangying'>
+  <name>张映</name>
+  <sex>男</sex>
+  <old>28</old>
+  </person>
+
+    <person name='tank'>
+      <name>tank</name>
+      <sex>男</sex>
+      <old>28</old>
+
+    </person>
+  </humans>
