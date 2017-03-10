@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+testphp/testci/
+testphp/testthinkphp/Common/
+testphp/testthinkphp/Lang/
+testphp/testthinkphp/Lib/Behavior/
+testphp/testthinkphp/Lib/Model/
+testphp/testthinkphp/Lib/Widget/
+testphp/testthinkphp/Runtime/Data/
+testphp/testthinkphp/Runtime/Temp/
+testphp/testthinkphp/Tpl/SideBar/
+testphp/testthinkphp323/ThinkPHP/Library/Think/Verify/zhttfs/
+web/images/
+testphp/VerificationCode/imgs/
+testphp/stringTest.php
+testphp/test.json
+testphp/testthinkphp323/Application/Runtime/Logs/Home/17_03_07.log
+testphp/testthinkphp323/Application/Runtime/Logs/Home/17_03_08.log
